@@ -13,8 +13,7 @@ main{
 .masthead{
     background-image: url('images/federica-galli-aiqKc07b5PA-unsplash\ 1.png');
     background-position: bottom;
-    border-radius: 20px;    
-    height: 250px;
+    border-radius: 20px;   
 }
 
 .details {
