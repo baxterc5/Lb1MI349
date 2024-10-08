@@ -10,7 +10,7 @@ main{
     width: 800px;
 }
 
-masthead{
+.masthead{
     background-image: url('images/federica-galli-aiqKc07b5PA-unsplash\ 1.png');
     background-position: bottom;
     border-radius: 20px;    
